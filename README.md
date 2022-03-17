@@ -16,4 +16,5 @@ _ IndexedDB
 - Express
 - Heroku
 
-<img width="1005" alt="Screen Shot 2022-03-17 at 1 11 44 PM" src="https://user-images.githubusercontent.com/80685266/158868473-3a9f93f2-1803-4718-ab80-f00a5d32f495.png">
+
+![19-pwa-homework-demo-01](https://user-images.githubusercontent.com/80685266/158868629-15435db5-db3a-4357-a7d6-42594f7568a4.png)
